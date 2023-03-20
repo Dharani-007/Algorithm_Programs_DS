@@ -40,5 +40,4 @@ public class BubbleSort {
         bubbleSort.display(arr);
     }
 
-
 }
